@@ -1,5 +1,5 @@
 # IgniteLab-RocketHelp
-## Inicialização:
+### Inicialização:
 ```bash
 git clone https://github.com/rafaelkamimura/IgniteLab-RocketHelp.git
 cd IgniteLab-RocketHelp
@@ -11,6 +11,7 @@ expo install
 
 ```
 
-## Download Google-Service API Key:
-
-https://console.firebase.google.com/project/rockethelp-f21f3/settings/general/
+### Downloads:
++ Android-Studios: https://developer.android.com/studio?hl=pt
++ Google-Service API Keys: https://console.firebase.google.com/project/rockethelp-f21f3/settings/general/
++ Pre-requisitos Expo Bare Workflow: https://react-native.rocketseat.dev/
